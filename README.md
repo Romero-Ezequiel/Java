@@ -5,6 +5,7 @@ _Son ejercicios que realice en el curso de Java de_
 ### Construido con 🛠️
 _Los ejercicios estan organizados segun el nivel de dificultad_
 
-alumno:
+### Autor ✒️
+* **Alumno: _Ezequiel Romero_** 
 
 
