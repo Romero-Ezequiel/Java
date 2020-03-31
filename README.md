@@ -1,4 +1,4 @@
-## Ejercicios resueltos del curso de Java
+## Curso de Java
 
 
 
